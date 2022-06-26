@@ -27,6 +27,7 @@ module.exports = {
         unnamedComponents: 'arrow-function',
       },
     ],
+    'import/no-unresolved': 0,
   },
   settings: {
     react: {
